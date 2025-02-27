@@ -1,0 +1,14 @@
+@font-face{
+  font-family: '';
+  src:  url('') format(''),
+        url('') format('');
+  font-weight: normal;
+  font-style: normal;
+}
+body {
+  background-color: white;
+  color: black;
+  font-family: '';
+  font-weight: normal;
+  font-style: normal;
+}
